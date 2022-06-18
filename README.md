@@ -21,6 +21,7 @@ class About extends Me {
     return [
       "HTML/CSS/SCSS",
       "JavaScript(ES6+)",
+      "TypeScript"
     ];
   }
   
